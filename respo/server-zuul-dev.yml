@@ -3,4 +3,4 @@ zuul:
     api-a:
       path: /api-member/**
       serviceId: app-itmayiedu-member
-configMess: XXXXXXXXXXXX
+configMess: XXtttttttttXXX
