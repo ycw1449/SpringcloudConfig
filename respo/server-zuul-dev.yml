@@ -6,3 +6,6 @@ zuul:
     api-b:
       path: /api-orders/**
       serviceId: app-itmayiedu-order
+    api-c:
+      path: /api-pay/**
+      serviceId: app-itmayiedu-pay
