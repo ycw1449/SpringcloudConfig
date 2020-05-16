@@ -3,4 +3,7 @@ zuul:
     api-a:
       path: /api-member/**
       serviceId: app-itmayiedu-member
+    api-b:
+      path: /api-orders/**
+      serviceId: app-itmayiedu-order
 configMess: XXtttttttttXXX
